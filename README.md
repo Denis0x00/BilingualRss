@@ -8,4 +8,4 @@
 
 ## 已转换翻译源
 
- - source001 [https://rsshub.app/reuters/world/china](https://rsshub.app/reuters/world/china) -> [reuters_china.xml](rss/reuters_china.xml)
+ - source001 [https://rss-hub-murex-alpha.vercel.app/reuters/world/china](https://rss-hub-murex-alpha.vercel.app/reuters/world/china) -> [reuters_china.xml](rss/reuters_china.xml)
