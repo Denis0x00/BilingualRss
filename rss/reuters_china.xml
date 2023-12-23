@@ -21,12 +21,12 @@
             <link>https://www.reuters.com/world/china/</link>
         </image>
         
-        <lastBuildDate>Sat, 23 Dec 2023 08:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 10:30:24 GMT</lastBuildDate>
         <ttl>5</ttl>
         
         <item>
             <title><![CDATA[随着选举临近，台湾报道更多中国军事活动]]></title>
-            <description><![CDATA[Taiwan reported Chinese warplanes and warships around the island on Saturday, including aircraft crossing the sensitive median line of the Taiwan Strait, as Beijing continues military activities with three weeks to go before Taiwan votes.翻译:台湾周六报道称，中国战机和军舰在台湾周围，包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
+            <description><![CDATA[Taiwan reported Chinese warplanes and warships around the island on Saturday, including aircraft crossing the sensitive median line of the Taiwan Strait, as Beijing continues military activities with three weeks to go before Taiwan votes.翻译:台湾周六报道称，中国战机和军舰在台湾周围飞行，其中包括飞机穿越台湾海峡敏感的中线，距离台湾投票还有三周时间，北京仍在继续军事活动。]]></description>
             <pubDate>Sat, 23 Dec 2023 07:30:17 GMT</pubDate>
             <guid isPermaLink="false">ZRHJG3TN6VPXPNFYGVUXOE34OU</guid>
             <link>https://www.reuters.com/world/china/taiwan-reports-more-chinese-military-activity-election-approaches-2023-12-23/</link>
@@ -125,28 +125,8 @@
         </item>
         
         <item>
-            <title><![CDATA[晨竞：史诗般的圣诞老人集会]]></title>
-            <description><![CDATA[A look at the day ahead in U.S. and global markets by Amanda Cooper.翻译:阿曼达·库珀 (Amanda Cooper) 对美国和全球市场未来一天的展望。]]></description>
-            <pubDate>Fri, 22 Dec 2023 11:03:06 GMT</pubDate>
-            <guid isPermaLink="false">KOJ6SGDQ7ZNA7OHTHYTM4I5ARU</guid>
-            <link>https://www.reuters.com/markets/us/global-markets-view-usa-2023-12-22/</link>
-            
-            
-            
-            <author><![CDATA[Reuters]]></author>
-            
-                
-                <category>Markets</category>
-                
-                <category>U.S. Markets</category>
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[尽管美中军事对话恢复，台湾和南中国海仍隐现危险]]></title>
-            <description><![CDATA[A resumption of military dialogue between China and the United States could help mitigate some tensions, but fundamental differences over Taiwan and the South China Sea still loom as dangerous potential flashpoints, Chinese and Asian analysts say.翻译:中国和亚洲分析人士表示，中美恢复军事对话可能有助于缓解部分紧张局势，但台湾和南中国海问题上的根本分歧仍然存在，成为危险的潜在爆发点。]]></description>
+            <title><![CDATA[尽管中美军事对话恢复，台湾和南海仍面临危险]]></title>
+            <description><![CDATA[A resumption of military dialogue between China and the United States could help mitigate some tensions, but fundamental differences over Taiwan and the South China Sea still loom as dangerous potential flashpoints, Chinese and Asian analysts say.翻译:中国和亚洲分析人士表示，中美之间恢复军事对话可能有助于缓解部分紧张局势，但台湾和南中国海问题上的根本分歧仍然存在，成为危险的潜在爆发点。]]></description>
             <pubDate>Fri, 22 Dec 2023 10:09:37 GMT</pubDate>
             <guid isPermaLink="false">WHPNEOHAVVLFHOC76GP5J6GAEA</guid>
             <link>https://www.reuters.com/world/asia-pacific/taiwan-schina-sea-loom-dangers-despite-revived-us-china-military-dialogue-2023-12-22/</link>
@@ -321,8 +301,8 @@
         </item>
         
         <item>
-            <title><![CDATA[香港法院驳回撤销黎智英煽动叛乱指控的请求]]></title>
-            <description><![CDATA[A Hong Kong court on Friday rejected a bid by the legal team for pro-democracy tycoon Jimmy Lai to have sedition charge against him dropped.翻译:香港一家法院周五驳回了法律团队要求撤销对民主大亨黎智英煽动叛乱指控的请求。]]></description>
+            <title><![CDATA[香港法院拒绝撤销黎智英煽动叛乱罪指控]]></title>
+            <description><![CDATA[A Hong Kong court on Friday rejected a bid by the legal team for pro-democracy tycoon Jimmy Lai to have sedition charge against him dropped.翻译:周五，香港一家法院驳回了法律团队要求撤销对民主大亨黎智英煽动叛乱指控的请求。]]></description>
             <pubDate>Fri, 22 Dec 2023 03:26:15 GMT</pubDate>
             <guid isPermaLink="false">LILNRX3WH5J6TIIBMS4OXNLJZU</guid>
             <link>https://www.reuters.com/world/china/hong-kong-court-rejects-bid-drop-sedition-charge-against-jimmy-lai-2023-12-22/</link>
@@ -381,20 +361,36 @@
         </item>
         
         <item>
-            <title><![CDATA[美国通胀降温，美元跌至5个月低点]]></title>
-            <description><![CDATA[The dollar index edged down on Friday, hitting a near five-month low as data showed annual U.S. inflation slowed further below 3% in November, cementing market expectations for a U.S. interest rate cut next March.翻译:周五美元指数小幅下跌，触及近五个月低位，因数据显示美国11月通胀率进一步放缓至3%以下，巩固了市场对美国明年3月降息的预期。]]></description>
-            <pubDate>Fri, 22 Dec 2023 00:33:31 GMT</pubDate>
-            <guid isPermaLink="false">4PXKOGRBURIUHM3D3X3ZUDFV5Y</guid>
-            <link>https://www.reuters.com/markets/currencies/dollar-sinks-ahead-us-inflation-test-2023-12-22/</link>
+            <title><![CDATA[美国表示，中国在台湾问题上的语气没有任何变化]]></title>
+            <description><![CDATA[Washington does not see any change in China's tone on Taiwan, U.S. Commerce Secretary Gina Raimondo told CNBC on Thursday when asked about media reports that Chinese President Xi Jinping told President Joe Biden that Beijing will reunify Taiwan with China.翻译:美国商务部长吉娜·雷蒙多周四在被问及有关中国国家主席习近平告诉总统乔·拜登北京将实现台湾与中国统一的媒体报道时告诉 CNBC，华盛顿认为中国在台湾问题上的态度没有任何变化。]]></description>
+            <pubDate>Thu, 21 Dec 2023 21:57:49 GMT</pubDate>
+            <guid isPermaLink="false">QHA4YNAXGBP7BB2CULL27BJQPI</guid>
+            <link>https://www.reuters.com/world/us-says-it-does-not-see-any-tonal-change-china-taiwan-2023-12-21/</link>
             
             
             
-            <author><![CDATA[Saqib Ahmed]]></author>
+            <author><![CDATA[Kanishka Singh]]></author>
             
                 
-                <category>Markets</category>
+                <category>World</category>
                 
-                <category>Currencies</category>
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[中国进口担忧促使美国启动半导体供应链审查]]></title>
+            <description><![CDATA[The U.S. Department of Commerce said Thursday it will launch a survey of the U.S. semiconductor supply chain and national defense industrial base to address national security concerns from Chinese-sourced chips.翻译:美国商务部周四表示，将对美国半导体供应链和国防工业基础展开调查，以解决来自中国芯片的国家安全担忧。]]></description>
+            <pubDate>Thu, 21 Dec 2023 14:46:00 GMT</pubDate>
+            <guid isPermaLink="false">VHSOLARWMZP5LHRXWTKQNUP2GU</guid>
+            <link>https://www.reuters.com/technology/us-launching-semiconductor-supply-chain-review-boost-national-security-2023-12-21/</link>
+            
+            
+            
+            <author><![CDATA[David Shepardson]]></author>
+            
+                
+                <category>Technology</category>
                 
             
             
