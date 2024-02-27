@@ -21,8 +21,28 @@
             <link>https://www.reuters.com/world/china/</link>
         </image>
         
-        <lastBuildDate>Tue, 27 Feb 2024 08:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 10:30:51 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[印度动力煤进口量自大流行以来首次下降]]></title>
+            <description><![CDATA[India's thermal coal imports are expected to fall for the first time this year since the COVID-19 pandemic due to increasing domestic output and record high inventories, industry officials said on Tuesday.翻译:行业官员周二表示，由于国内产量增加和库存创历史新高，预计今年印度动力煤进口量将出现自 COVID-19 大流行以来的首次下降。]]></description>
+            <pubDate>Tue, 27 Feb 2024 10:18:12 GMT</pubDate>
+            <guid isPermaLink="false">IL6GYHT4JBKJPF53DSPJTFSPH4</guid>
+            <link>https://www.reuters.com/world/india/indias-thermal-coal-imports-seen-falling-first-time-since-pandemic-2024-02-27/</link>
+            
+            
+            
+            <author><![CDATA[Sethuraman R, Brijesh Patel]]></author>
+            
+                
+                <category>Business</category>
+                
+                <category>Energy</category>
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[阿里巴巴旗下南亚电商巨头Daraz在备忘录中宣布裁员]]></title>
@@ -39,6 +59,26 @@
                 <category>Business</category>
                 
                 <category>Retail &#38; Consumer</category>
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[牙科种植体制造商士卓曼对 2024 年持谨慎态度，押注中国增长]]></title>
+            <description><![CDATA[Swiss dental implant maker Straumann on Tuesday forecast steady 2024 sales growth, taking a cautious stance amidst prolonged economic uncertainty.翻译:瑞士种植牙制造商士卓曼 (Straumann) 周二预测 2024 年销售额将稳定增长，在长期的经济不确定性中采取谨慎立场。]]></description>
+            <pubDate>Tue, 27 Feb 2024 06:47:12 GMT</pubDate>
+            <guid isPermaLink="false">F2RWC2JL7FJYHCEBBUBAMAQBDI</guid>
+            <link>https://www.reuters.com/business/healthcare-pharmaceuticals/dental-implants-maker-straumann-sees-steady-sales-growth-2024-2024-02-27/</link>
+            
+            
+            
+            <author><![CDATA[Andrey Sychev, Marleen Kaesebier]]></author>
+            
+                
+                <category>Business</category>
+                
+                <category>Healthcare &#38; Pharmaceuticals</category>
                 
             
             
@@ -163,15 +203,15 @@
         </item>
         
         <item>
-            <title><![CDATA[日本通胀高于预期，亚洲股市波动，交易员保持警惕]]></title>
-            <description><![CDATA[Asian shares slipped on Tuesday, with slightly warmer-than-expected Japanese inflation putting investors on guard ahead of price data due in Europe and the U.S. this week, though bitcoin extended gains on signs that institutional buyers are circling.翻译:亚洲股市周二下跌，日本通胀略高于预期，令投资者在本周欧洲和美国公布价格数据之前保持警惕，但有迹象表明机构买家正在围观，比特币延续涨势。]]></description>
+            <title><![CDATA[通胀数据公布后，欧洲股市小幅走高，日元上涨]]></title>
+            <description><![CDATA[European stock indexes rose slightly in early trading on Tuesday, as the equity rally slowed and investors weighed up the outlook for central bank rate cuts, ahead of key U.S. and European inflation data later in the week.翻译:欧洲股指周二早盘小幅上涨，因股市涨势放缓，投资者在本周晚些时候公布美国和欧洲关键通胀数据之前权衡央行降息前景。]]></description>
             <pubDate>Tue, 27 Feb 2024 01:59:51 GMT</pubDate>
             <guid isPermaLink="false">VIFGJLIAL5MWDO3O63PM7LWMXM</guid>
             <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-27/</link>
             
             
             
-            <author><![CDATA[Tom Westbrook]]></author>
+            <author><![CDATA[Elizabeth Howcroft]]></author>
             
                 
                 <category>Markets</category>
@@ -201,15 +241,15 @@
         </item>
         
         <item>
-            <title><![CDATA[关键数据公布前美元下跌，比特币飙升至 57,000 美元以上]]></title>
-            <description><![CDATA[The dollar traded on the back foot on Tuesday, as markets looked ahead to a week of U.S. economic data that will provide fresh signals on how soon the Federal Reserve may begin cutting interest rates.翻译:周二美元走势不利，因为市场期待一周的美国经济数据，这些数据将提供有关美联储可能多久开始降息的新信号。]]></description>
+            <title><![CDATA[美元苦苦寻找方向，数据公布后日元上涨]]></title>
+            <description><![CDATA[The dollar struggled for direction on Tuesday ahead of key data that could provide further clues on the U.S. Federal Reserve's policy path, while the yen rose after figures confirmed inflation was above the Bank of Japan's (BOJ) target.翻译:周二，在可能为美联储政策路径提供进一步线索的关键数据公布之前，美元努力寻找方向，而在数据确认通胀高于日本央行(BOJ)目标后，日元上涨。]]></description>
             <pubDate>Tue, 27 Feb 2024 01:20:03 GMT</pubDate>
             <guid isPermaLink="false">MCBFEEYAS5NX3CVO7JKLUJWK2M</guid>
             <link>https://www.reuters.com/markets/currencies/dollar-droops-key-us-data-looms-yen-firms-cpi-beat-2024-02-27/</link>
             
             
             
-            <author><![CDATA[Kevin Buckland]]></author>
+            <author><![CDATA[Stefano Rebaudo]]></author>
             
                 
                 <category>Markets</category>
@@ -373,42 +413,6 @@
                 <category>World</category>
                 
                 <category>Middle East</category>
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[独家：财政部称美国对银行的警告减缓了俄罗斯的资金流动]]></title>
-            <description><![CDATA[Washington's threat to hit foreign financial institutions with sanctions has made a significant difference in financial flows between Russia and countries such as Turkey, the United Arab Emirates and Kazakhstan, said Deputy Treasury Secretary Wally Adeyemo.翻译:美国财政部副部长沃利·阿德耶莫表示，华盛顿威胁对外国金融机构实施制裁，这对俄罗斯与土耳其、阿拉伯联合酋长国和哈萨克斯坦等国之间的资金流动产生了重大影响。]]></description>
-            <pubDate>Mon, 26 Feb 2024 17:34:23 GMT</pubDate>
-            <guid isPermaLink="false">TW6CB3UBEBPLJJEBEFJ5CPPAOE</guid>
-            <link>https://www.reuters.com/world/treasury-says-us-warning-banks-slows-russia-financial-flows-2024-02-26/</link>
-            
-            
-            
-            <author><![CDATA[Daphne Psaledakis, David Lawder, Andrea Shalal]]></author>
-            
-                
-                <category>World</category>
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[发言人称美国商会会长本周将访华]]></title>
-            <description><![CDATA[The chief executive of the U.S. Chamber of Commerce, Suzanne Clark, is leading a delegation of former U.S. government officials to Beijing this week, the group said.翻译:该组织表示，美国商会首席执行官苏珊·克拉克本周将率领一个由前美国政府官员组成的代表团访问北京。]]></description>
-            <pubDate>Mon, 26 Feb 2024 17:22:03 GMT</pubDate>
-            <guid isPermaLink="false">477XG6QIENJYZADEDIZWUARKLY</guid>
-            <link>https://www.reuters.com/world/us-chamber-commerce-chief-visiting-china-this-week-spokesperson-says-2024-02-26/</link>
-            
-            
-            
-            <author><![CDATA[Reuters]]></author>
-            
-                
-                <category>World</category>
                 
             
             
